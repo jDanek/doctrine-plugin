@@ -1,0 +1,12 @@
+{
+    "name": "Doctrine",
+    "description": "Doctrine ORM integration.",
+    "url": "https://sunlight-cms.org/",
+    "version": "1.0",
+    "api": "^8.0",
+    "php": "7.2",
+    "class": "DoctrinePlugin",
+    "langs": {
+        "doctrine": "Lang"
+    }
+}
